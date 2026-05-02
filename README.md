@@ -99,6 +99,6 @@ L'application sera disponible sur `http://localhost:5173`
 ## 👤 Auteur
 
 **Aymane El Qaddouri**  
-📧 elqaddouriaymane@gmail.com  
+📧 aymaneelqaddouri3@gmail.com  
 📍 Rabat, Maroc  
 🎓 Étudiant en Licence ISI — SUPMTI Rabat
